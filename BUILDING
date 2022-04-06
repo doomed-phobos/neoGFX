@@ -10,6 +10,3 @@ The "neoGFX" C++ app/game engine and development platform is dependent on the fo
 neoGFX is also dependent on the following library:
 
 * neolib (currently assumed to be in /usr/local)
-
-
-Note when neoGFX 1.0 is released it will be provided with CMake build scripts (i.e. the current Visual Studio development projects will be removed).
